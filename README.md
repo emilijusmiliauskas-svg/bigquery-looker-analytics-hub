@@ -15,22 +15,6 @@ This repository contains the setup and dashboards for GoExplore's data analytics
 
 ---
 
-## Dashboards
-
-Each team member focused on a specific aspect of the business:
-
-| Dashboard | Responsible | Link |
-|-----------|------------|------|
-| Financial Performance | Person 1 | [View Dashboard]([https://link-to-dashboard.com](https://lookerstudio.google.com/reporting/c1096e68-96ab-42f1-8a48-9d77fbc4cf6e/page/p_w36148knxd)) |
-| Product Performance | Person 2 | [View Dashboard]([https://link-to-dashboard.com](https://lookerstudio.google.com/reporting/c1096e68-96ab-42f1-8a48-9d77fbc4cf6e/page/8ugdF)) |
-| Geographical & Market | Me | [View Dashboard]([https://link-to-dashboard.com](https://lookerstudio.google.com/reporting/c1096e68-96ab-42f1-8a48-9d77fbc4cf6e/page/p_hexl98knxd)) |
-| Retailer & Channel | Person 4 | [View Dashboard]([https://link-to-dashboard.com](https://lookerstudio.google.com/reporting/c1096e68-96ab-42f1-8a48-9d77fbc4cf6e/page/p_dfo12k2nxd)) |
-
-Additionally, a **full dashboard** was created on Google Sheets for overview purposes:  
-[Full Google Sheets Dashboard]([https://link-to-dashboard.com](https://docs.google.com/spreadsheets/d/1bVDEjm7JravrwcW-2kHdO9Q48hdC7eC5Z-Y8oTTew_k/edit?gid=1476888047#gid=1476888047))
-
----
-
 ## Data Setup
 
 1. **Google Sheets**  
@@ -53,6 +37,18 @@ Additionally, a **full dashboard** was created on Google Sheets for overview pur
 - Built interactive dashboards using Looker Studio.
 - Demonstrated descriptive analysis for KPIs and business insights.
 - Established a scalable data setup for future company reporting.
+
+---
+
+## What I Learned
+
+- **Data Warehousing:** How to structure and manage data in BigQuery for analysis.  
+- **SQL Queries:** Aggregating, filtering, and preparing data for dashboards.  
+- **OLAP Concepts:** Differences between OLTP and OLAP, and how to design dashboards for analytics.  
+- **Data Visualization:** Choosing appropriate charts (bar, line, pie, scatter, maps) for different types of data.  
+- **Looker Studio Skills:** Connecting data sources, creating interactive dashboards, filters, scorecards, and styling visuals.  
+- **Team Collaboration:** Coordinating tasks across multiple dashboards and ensuring consistent data interpretation.  
+- **Presentation of Insights:** Making descriptive and actionable data insights accessible to stakeholders.
 
 ---
 
